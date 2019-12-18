@@ -1,0 +1,50 @@
+/* Style additionnel de ma présentation avec Remark.js */
+ 
+@import url(https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz);
+@import url(https://fonts.googleapis.com/css?family=Droid+Serif:400,700,400italic);
+
+body { 
+      font-family: 'Sans serif'; 
+}
+
+h1, h2, h3 {
+        font-family: 'Yanone Kaffeesatz', 'Sans serif';
+        font-weight: normal;
+      }
+
+h3 {
+ 	color: #BF3F7F;
+}
+ 
+ blockquote, em, h4 {
+  color: royalblue;
+  }
+  
+             
+blockquote { 
+ 				border: thick royalblue dotted;
+             }
+            
+dl {             
+        border: thick #BF3F7F dotted;
+}
+
+blockquote, dl { 
+        border-radius: 5px;
+        padding : 0.75em;
+             }
+
+dt {
+        font-weight: bold;
+        color: #BF3F7F;
+}
+
+ h4 {
+    border-top: thin solid royalblue;
+    border-right: thin solid royalblue;
+    border-bottom: thick solid royalblue;
+    border-left: thick solid royalblue;
+    border-radius: 5px;
+    padding: 0.5em;
+ }
+ 
