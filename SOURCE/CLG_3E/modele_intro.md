@@ -12,7 +12,7 @@ class: center, middle
 
 + **Lire** le texte pages x-y dans le manuel.
 
-#### Questionnaire
+#### Mon questionnaire
 
 + Préparer le **questionnaire** page z.
 
