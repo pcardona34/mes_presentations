@@ -29,7 +29,7 @@ dl {
         border: thick #BF3F7F dotted;
 }
 
-blockquote, dl { 
+blockquote, dl, fieldset { 
         border-radius: 5px;
         padding : 0.75em;
              }

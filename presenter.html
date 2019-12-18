@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="fr">
+<!--
+   presenter.html
+   
+   Copyright 2019 Patrick Cardona <pcardona34@gmail.com>
+   
+   This program is free software; you can redistribute it and/or modify
+   it under the terms of the GNU General Public License as published by
+   the Free Software Foundation; either version 2 of the License, or
+   (at your option) any later version.
+   
+   This program is distributed in the hope that it will be useful,
+   but WITHOUT ANY WARRANTY; without even the implied warranty of
+   MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+   GNU General Public License for more details.
+   
+   You should have received a copy of the GNU General Public License
+   along with this program; if not, write to the Free Software
+   Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston,
+   MA 02110-1301, USA.
+   
+   
+-->
+
+<head>
+<meta charset="utf-8" />
+<title>Choix de la présentation</title>
+<meta name="generator" content="Geany 1.29" />
+
+<link rel="stylesheet" href="ASSETS/style.css" />
+<link rel="stylesheet" href="ASSETS/boutons.css" />
+
+<style>
+
+body { 
+      font-family: 'Sans serif';
+      background-image: url(ASSETS/lanterne.jpg);
+      background-repeat: repeat-x;
+}
+
+h1 {
+   color: red;
+}
+
+fieldset {
+   background: rgba(255, 255, 255, 0.8);
+}
+
+footer {
+   margin-top: 10em;
+}
+
+</style>
+
+</head>
+
+<body>
+   
+   <h1>Choix de la présentation</h1>
+   
+   
+   <form method="get" action="presentation.html">
+   <fieldset>
+      <legend>Paramètres</legend>
+   Niveau : 
+  <select id="niveau" name="niveau">
+  <option>CLG_3E</option>
+  <option>CLG_5E</option>
+  </select>
+  <br />
+  Nom de la présentation* :
+  <input name="source" id="source" type="text" size="80" />
+  </fieldset>
+  <input type="submit" value="Afficher la présentation..." />
+  
+   </form>
+   
+   <footer>(*) Nom du fichier source <em>Markdown</em> sans extension.
+   <br /><a href="https://fr.freepik.com/photos-vecteurs-libre/banner">Bannière créée par rawpixel.com - fr.freepik.com</a>
+   </footer>
+
+</body>
+
+</html>
