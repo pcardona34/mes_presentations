@@ -19,12 +19,16 @@ Ainsi que par l'accumulation des compléments du verbe « trancher » :
 
 > « Ils tranchent **les poings, les flancs, les échines, les vêtements**... » (l.2-3)
 
+---
+
+### Réponse 1.b) L'exagération suggérée par une hyperbole
+
 --
 
-+ Pour souligner encore cette abondance de plaies, le narrateur emploie une *hyperbole* :
++ Pour souligner encore cette abondance de plaies, le narrateur emploie cette *hyperbole* :
 
 > « (...) le sang coule **à flots** » (l.3-4)
 
 ---
 
-### Réponse 1.b) 
+### Réponse 2) ...
