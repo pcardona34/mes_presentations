@@ -252,5 +252,5 @@ Ainsi Perceval, qui s'était d'abord comporté comme un rustre, est devenu un ch
 
 --
 
-Il s'agit enfin de lutter contre de mauvais sentiments tels que l'orgueil ou la jalousie, ce que montre aussi l'évolution de l'Orgeuilleux.
+Il s'agit enfin de lutter contre de mauvais sentiments tels que l'orgueil ou la jalousie, ce que montre aussi l'évolution de l'Orgueilleux.
 
