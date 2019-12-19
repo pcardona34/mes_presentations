@@ -1,6 +1,6 @@
 class: center, middle
 
-# Étude de *Titre* : sous-titre
+# *La Chanson de Roland* : ...
 
 ### Lecture
 
