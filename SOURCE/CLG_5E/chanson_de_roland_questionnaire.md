@@ -58,7 +58,7 @@ Ainsi que par l'accumulation des compléments du verbe « trancher » :
 
 ---
 
-### 3. Héroïsme ou orgueil ?
+### Réponse 3) Héroïsme ou orgueil ?
 
 > « C'est votre faute : **vous avez confondu vaillance et folie** (...) Votre vaillance, Roland, nous a été fatale » (l.18)
 
@@ -98,7 +98,7 @@ Et il ajoute à la défaite le sentiment d'avoir failli, d'avoir manqué à son 
 
 ---
 
-### 4. Les deux arguments de l'archevêque
+### Réponse 4) Les deux arguments de l'archevêque
 
 L'archevêque veut que Roland appelle Charlemagne pour deux raisons :
 
