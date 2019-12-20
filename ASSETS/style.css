@@ -24,8 +24,12 @@ h3 {
   color: royalblue;
   }
   
-p, li {
+p {
  font-size: 1em;
+}
+
+li {
+ font-size: 0.8em;
 }
 
 blockquote { 
