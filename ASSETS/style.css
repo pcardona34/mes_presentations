@@ -3,11 +3,11 @@
 @import url(https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz);
 
 body { 
-      font-family: Arial, 'Sans serif';
+      font-family: 'Arial', 'sans-serif';
 }
 
 h1, h2, h3 {
-        font-family: 'Yanone Kaffeesatz', 'Sans serif';
+        font-family: 'Yanone Kaffeesatz', 'sans-serif';
         font-weight: normal;
       }
 
