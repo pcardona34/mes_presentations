@@ -59,12 +59,7 @@ h1 {
  
 body {
       font-size: 90%;
-   }
-
-p, li {
- font-size: 2em;
-   }
- 
+   } 
 }
 
 @media screen and (max-width: 50em) {
