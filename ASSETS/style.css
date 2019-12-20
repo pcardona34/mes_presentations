@@ -3,11 +3,32 @@
 @import url(https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz);
 
 body { 
-      font-family: 'Arial', 'sans-serif';
+      font-family: Arial, Helvetica, Liberation Sans, FreeSans, sans-serif;
+      font-size: 100%;
+}
+
+h1 {font-size: 3em;}
+
+@media screen and (max-width: 64em) {
+h1 {
+    font-size: 2.5em;
+  }
+}
+
+@media screen and (max-width: 50em) {
+h1 {
+    font-size: 2em;
+  }
+}
+
+@media screen and (max-width: 30em){
+h1 {
+    font-size: 1.5em;
+  }
 }
 
 h1, h2, h3 {
-        font-family: 'Yanone Kaffeesatz', 'sans-serif';
+        font-family: 'Yanone Kaffeesatz', Arial, Helvetica, Liberation Sans, FreeSans, sans-serif;
         font-weight: normal;
       }
 
