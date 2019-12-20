@@ -24,7 +24,10 @@ h3 {
   color: royalblue;
   }
   
-             
+p, li {
+ font-size: 1.2em;
+}
+
 blockquote { 
  				border: thick royalblue dotted;
              }
@@ -59,15 +62,8 @@ h1 {
  
 body {
       font-size: 90%;
-   }
- 
- p, li {
- font-size: 5em;
+   } 
 }
- 
-}
-
-
 
 @media screen and (max-width: 50em) {
 h1 {
