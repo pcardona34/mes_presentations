@@ -1,11 +1,9 @@
 /* Style additionnel de ma présentation avec Remark.js */
  
 @import url(https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz);
-@import url(https://fonts.googleapis.com/css?family=Droid+Serif:400,700,400italic);
 
 body { 
-      font-family: 'Sans serif';
-      font-size: 1.8em;
+      font-family: Arial, 'Sans serif';
 }
 
 h1, h2, h3 {
