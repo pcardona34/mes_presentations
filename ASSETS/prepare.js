@@ -8,10 +8,11 @@
 
 // Récupération du paramètre "source" : d'après MSDN
 function obtenirParametre(sVar) {
-  local url = window.location.search.replace(/&amp/,"&");
-  return unescape(url.replace(new RegExp("^(?:.*[&\\?]" + escape(sVar).replace(/[\.\+\*]/g, "\\$&") + "(?:\\=([^&]*))?)?.*$", "i"), "$1"));
+  //local url = window.location.search.replace(/&amp/,"&");
+  //return unescape(url.replace(new RegExp("^(?:.*[&\\?]" + escape(sVar).replace(/[\.\+\*]/g, "\\$&") + "(?:\\=([^&]*))?)?.*$", "i"), "$1"));
 	
   //return unescape(window.location.search.replace(new RegExp("^(?:.*[&\\?]" + escape(sVar).replace(/[\.\+\*]/g, "\\$&") + "(?:\\=([^&]*))?)?.*$", "i"), "$1"));
+  return unescape(window.location.search.replace(new RegExp("^(?:.*[&\\?|&amp;\\?]" + escape(sVar).replace(/[\.\+\*]/g, "\\$&") + "(?:\\=([^&]*))?)?.*$", "i"), "$1"));
 }
 
 var niveau = obtenirParametre('niveau');
