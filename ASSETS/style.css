@@ -28,8 +28,8 @@ p {
  font-size: 1.3em;
 }
 
-li {
- font-size: 1.3em;
+ul, ol {
+ font-size: 1.2em;
 }
 
 blockquote { 
