@@ -35,6 +35,8 @@ Par rapport aux textes de *Perceval* que vous avez déjà lus, pages 165 et 166,
 
 Voici la chronologie des événements et les extraits qui leur sont associés :
 
+--
+
 1. Perceval a **quitté sa mère**.
 
 --
@@ -233,9 +235,9 @@ L'orgueilleux a pris conscience que sa jalousie était une mauvaise réaction, c
 
 > « Je ferai tout ce qu'elle voudra... » (l.45)
 
---
+---
 
-Ce que l'auteur veut nous faire comprendre, c'est que le **respect des femmes** est 
++ Ce que l'auteur veut nous faire comprendre, c'est que le **respect des femmes** est 
 une **affaire d'éducation** et de milieu : c'est le sens de l'adjectif *courtois*.
 
 --
@@ -252,5 +254,9 @@ Ainsi Perceval, qui s'était d'abord comporté comme un rustre, est devenu un ch
 
 --
 
-Il s'agit enfin de lutter contre de mauvais sentiments tels que l'orgueil ou la jalousie, ce que montre aussi l'évolution de l'Orgueilleux.
+Il s'agit enfin de lutter contre de mauvais sentiments...
+
+--
+
+... tels que l'orgueil ou la jalousie, ce que montre aussi l'évolution de l'Orgueilleux.
 

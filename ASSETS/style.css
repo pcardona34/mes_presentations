@@ -1,85 +1,159 @@
-/* Style additionnel de ma présentation avec Remark.js */
- 
-@import url(https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz);
+/* Adapté de : https://www.lendmeyourear.net/media/remark-template-basic.css */
 
-body { 
-      font-family: Arial, Helvetica, Liberation Sans, FreeSans, sans-serif;
-      font-size: 100%;
+* {
+	box-sizing:border-box
+	}
+	
+*:before,*:after {
+	box-sizing:border-box
+	}
+	
+html {
+	font-size:100%;
+	font-family:Helvetica, Arial, Liberation Sans, FreeSans, sans-serif
+	}
+
+body {
+	margin:0;
+	font-family:Helvetica, Arial, Liberation Sans, FreeSans, sans-serif;
+	font-size:30px;
+	line-height:1.5;
+	color:#555555;
+	background-color:#FFFFFF
+	}
+	
+a {
+	color:royalblue;
+	text-decoration:none;
+	font-weight:500
 }
 
-h1 {
-  font-size: 3em;
+a:hover,a:focus{
+	color:royalblue;
+	text-decoration:underline
 }
 
-h1, h2, h3 {
-        font-family: 'Yanone Kaffeesatz', Arial, Helvetica, Liberation Sans, FreeSans, sans-serif;
-        font-weight: normal;
-      }
-
-h3 {
- 	color: #BF3F7F;
-}
- 
- blockquote, em, h4 {
-  color: royalblue;
-  }
-  
-blockquote { 
- 				border: thick royalblue dotted;
-             }
-            
-dl {             
-        border: thick #BF3F7F dotted;
+a:focus {
+	outline:3px solid royalblue;
+	outline-offset:0;
+	background-color:royalblue;
+	color:#FFF;
+	text-decoration:none
 }
 
-blockquote, dl, fieldset { 
+ol {
+	padding:0 0 0 1.5em;
+	margin:1em 0
+}
+
+ul {
+	margin:1em 0;
+	padding:0 0 0 1em
+}
+
+img {
+	vertical-align:middle;
+	max-height:600px;
+	margin:0 auto 1em;
+	display:block
+}
+
+hr {
+	height:0;
+	margin:1em 0;
+	border:0;
+	border-top:1px solid #cccccc
+}
+
+h1,h2,h3,h4,h5,h6{
+	font-weight:500;
+	margin:1em 0 0.5em;
+}
+
+b,strong {
+	font-weight:500
+}
+
+blockquote{
+	border-left: 6px #999999 solid;
+	/*border-left:5px solid #cccccc;*/
+	padding-left:1em;
+	margin:1em -1em;
+	font-style:italic;
+	color:#999999
+}
+
+fieldset { 
         border-radius: 5px;
         padding : 0.75em;
-             }
-
-dt {
-        font-weight: bold;
-        color: #BF3F7F;
 }
 
- h4 {
-    border-top: thin solid royalblue;
+.remark-slide{
+	display:table
+}
+
+.remark-slide-content {
+	display:table-cell;
+	vertical-align:middle;
+	padding:0 4em;
+	font-size:24px
+}
+
+.remark-slide-content h1{
+	font-size:56px;
+	color:royalblue
+}
+
+.remark-slide-content h2{
+	font-size:48px;
+	color:royalblue
+}
+
+.remark-slide-content h3{
+	font-size:40px;
+	color:#BF3F7F;
+}
+
+.remark-slide-content h4{
+	font-size:36px;
+	color:royalblue;
+	border-top: thin solid royalblue;
     border-right: thin solid royalblue;
     border-bottom: thick solid royalblue;
     border-left: thick solid royalblue;
     border-radius: 5px;
     padding: 0.5em;
- }
- 
-@media screen and (max-width: 64em) {
-h1 {
-    font-size: 2.5em;
-  }
- 
-body {
-      font-size: 90%;
-   } 
 }
 
-@media screen and (max-width: 50em) {
-h1 {
-    font-size: 2em;
-  }
- 
-  body {
-       font-size: 75%;
-   } 
- 
+.remark-slide-content h5{
+	font-size:30px;
+	color:royalblue
 }
 
-@media screen and (max-width: 30em){
-
- h1 {
-    font-size: 1.5em;
-  }
- 
-  body {
-        font-size: 50%;
-  }
- 
+.remark-slide-content h6{
+	font-size:24px;
 }
+
+.remark-slide-content em{
+	color:royalblue
+}
+
+.remark-slide-content dl {             
+        border: thick #BF3F7F dotted;
+        border-radius: 5px;
+        padding : 0.75em;
+}
+
+.remark-slide-content dt {
+        font-weight: bold;
+        color: #BF3F7F;
+}
+
+.remark-slide-content>:first-child{
+	margin-top:0
+}
+
+.remark-slide-content>:last-child{
+	margin-bottom:0
+}
+
