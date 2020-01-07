@@ -147,3 +147,71 @@ L'archevêque veut que Roland appelle Charlemagne pour deux raisons :
 
 > « Ils nous mettront en bière (...) puis ils nous enterreront dans des cimetières bénis... » (l.27-29)
 
+---
+
+class: center,middle
+
+## Une chanson de geste
+
+---
+
+### Lexique
+
+<dl>
+  <dt>Geste, n. fém.</dt>
+  <dd>On appelle *geste* (au féminin) l'ensemble des exploits accomplis par un héros médiéval.</dd>
+</dl>
+  
+---
+
+### Réponse 5.a) Description de l'armée de Charlemagne
+
+--
+
+> « Ils ont de **bons** hauberts, des épées et des heaumes **ornés d'or**, des épieux **solides**, et des gonfanons **blancs et vermeils**. » (l.35-37)
+
+--
+
+On voit d'abord que cette description est valorisante (*méliorative*). L'auteur y exprime à la fois :
+
++ un sentiment de **luxe** (cf. l'or),
++ de beauté (cf. l'adjectif « ornés » ),
++ et d'efficacité : la solidité des « épieux » et la qualité des « bon hauberts » suggèrent en effet l'idée de **prouesse**.
+
+---
+
+À l'aspect visuel de la description se superpose l'aspect sonore :
+
+--
+
+> « Soixante mille clairons sonnent de toute leur puissance. Les monts retentissent et les vallées leur répondent » (l.50-51)
+
+--
+
+Cet aspect sonore est exprimé au moyen de deux *hyperboles* :
+
+--
+
++ L'exagération du nombre : « Soixante mille clairons » ;
++ L'amplification du phénomène par l'écho des monts et la **personnification** des vallées.
+
+---
+
+### Réponse 5.b) Le sentiment suscité par cette description
+
+--
+
++ Il s'agit de glorifier l'armée de Charlemagne. Les amplifications contribuent au registre *épique*, qui confère à cette armée prestance et puissance.
+
+---
+
+### Réponse 6.a) La réaction des païens
+
+--
+
+Ils prennent la fuite :
+
+--
+
+> « (...) les païens s'enfuient » (l.55)
+
