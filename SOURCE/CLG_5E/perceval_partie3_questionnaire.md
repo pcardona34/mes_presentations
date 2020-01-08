@@ -159,11 +159,11 @@ Perceval se soumet à ses devoirs de **chevalier** :
 
 ### Réponse 3) Un bon héros ?
 
-+ D'abord, Perceval présente une évolution personnelle. Il apprend de ses erreurs et s'efforce de réparer les torts qu'il a causés.
++ D'abord, Perceval présente une **évolution personnelle**. Il apprend de ses erreurs et s'efforce de réparer les torts qu'il a causés.
 
 --
 
-+ Il incarne ainsi les valeurs chrétiennes de la société de son époque, une fois adoubé.
++ Il incarne ainsi les **valeurs chrétiennes** de la société de son époque, une fois adoubé.
 
 --
 
@@ -211,7 +211,7 @@ Le **nom du personnage**, *l'Orgueilleux*, résume assez bien la situation. Au l
  
 --
  
-Il ne lui fait pas confiance. C'est pourquoi, **par vengeance**, il la maintient dans un « état déplorable » afin de l'humilier...
+Il ne lui fait pas confiance. C'est pourquoi, **par vengeance**, il la maintient dans un *« état déplorable »* afin de l'humilier...
 
 ---
 
@@ -246,7 +246,7 @@ une **affaire d'éducation** et de milieu : c'est le sens de l'adjectif *courtoi
 
 ---
 
-Ainsi Perceval, qui s'était d'abord comporté comme un rustre, est devenu un chevalier *courtois* grâce à l'enseignement du seigneur Gornemant et à la fréquentation de la cour du roi Arthur.
+Ainsi Perceval, qui s'était d'abord comporté comme un *rustre*, est devenu un chevalier *courtois* grâce à l'enseignement du seigneur Gornemant et à la fréquentation de la cour du roi Arthur.
 
 --
 

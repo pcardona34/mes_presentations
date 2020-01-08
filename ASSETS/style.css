@@ -2,9 +2,9 @@
 
 * {
 	box-sizing:border-box
-	}
+}
 	
-*:before,*:after {
+*:before,*:after { 
 	box-sizing:border-box
 	}
 	
@@ -16,7 +16,7 @@ html {
 body {
 	margin:0;
 	font-family:Helvetica, Arial, Liberation Sans, FreeSans, sans-serif;
-	font-size:30px;
+	font-size:32px;
 	line-height:1.5;
 	color:#555555;
 	background-color:#FFFFFF
@@ -70,17 +70,17 @@ h1,h2,h3,h4,h5,h6{
 	margin:1em 0 0.5em;
 }
 
-b,strong {
+/*b,strong {
 	font-weight:500
-}
+}*/
 
 blockquote{
-	border-left: 6px #999999 solid;
+	border-left: 6px royalblue solid;
 	/*border-left:5px solid #cccccc;*/
 	padding-left:1em;
 	margin:1em -1em;
 	font-style:italic;
-	color:#999999
+	color:royalblue
 }
 
 fieldset { 
