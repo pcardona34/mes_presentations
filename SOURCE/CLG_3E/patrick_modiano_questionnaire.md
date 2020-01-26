@@ -210,8 +210,9 @@ aux loisirs de l'adolescent et de son père.
 
 --
 
-+ On perçoit dans ce regard porté par le narrateur sur son passé une forme de *nostalgie* : ce sentiment est suggéré par 
-l'*idéalisation* du père, plutôt présenté sous un jour favorable, et le lien de proximité avec son fils, qui souligné.
++ On perçoit dans ce regard porté par le narrateur sur son passé une forme de *nostalgie* : ce 
+sentiment est suggéré par l'*idéalisation* du père, plutôt présenté sous un jour favorable, et le lien 
+de proximité avec son fils, qui est souligné.
 
 ---
 
