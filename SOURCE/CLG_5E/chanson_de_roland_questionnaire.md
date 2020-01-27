@@ -327,12 +327,14 @@ des *«cimetières bénis » (l.28)*.
 
 + Enfin, les Francs *« prient Dieu de conserver Roland en vie » (l.45-46)*
 
+---
+
 ### Réponse 9) Les caractéristiques d'une chanson de geste
 
 #### Rappel : la chanson de geste
 
-+ On rapporte les exploits d'un héros.
-+ On célèbre la nation française en train de naître.
++ On rapporte les **exploits** d'un héros.
++ On célèbre la **nation française** en train de naître.
 
 ---
 
