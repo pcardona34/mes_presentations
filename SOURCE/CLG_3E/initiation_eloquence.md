@@ -6,7 +6,9 @@
 
 ---
 
-#### Activité 1 : Remue-méninges
+### Activité 1
+
+#### Remue-méninges
 
 + Que vous évoque le mot *éloquence* ?
 
@@ -31,7 +33,9 @@ Hitler, aux gourous des sectes, par exemple.
 
 ---
 
-#### Activité 2 : se présenter avec originalité
+### Activité 2
+
+#### Se présenter avec originalité
 
 + Mon **portrait analogique** (dit aussi « portrait chinois ») :
 
@@ -41,24 +45,27 @@ Hitler, aux gourous des sectes, par exemple.
 > Si j'étais un monument, ...  
 > Si j'étais une chanson, etc.
 
+
 --- 
 
 ## séance 2
 
 ---
 
-#### Activité 2-bis :  se présenter avec originalité (suite)
+### Activité 2-bis
+
+#### Se présenter avec originalité (suite)
 
 + Variante de mon **portrait analogique**
 
 > Moi, **ce que j'aime**, c'est ...  
 > (...)
-> **Ce que je n'aime pas**, ...
+> **Ce que je n'aime pas**, ...  
 > Mais, ce que je déteste par dessus tout, ...
 
 ---
 
-+ Mélange des deux techniques :
+#### Mélange des deux techniques :
 
 > Moi, si j'étais une fleur, je serais...  
 > Parce que, ce que j'aime, c'est...  
@@ -66,7 +73,9 @@ Hitler, aux gourous des sectes, par exemple.
 
 ---
 
-#### Activité 3 : toucher, émouvoir
+### Activité 3
+
+#### Toucher, émouvoir
 
 + Vaut-il mieux faire sourire ou rire, ou bien faire pleurer ?
 
@@ -74,13 +83,17 @@ Hitler, aux gourous des sectes, par exemple.
 
 ---
 
-#### Activité 3-bis : toucher, émouvoir
+### Activité 3-bis
+
+#### Toucher, émouvoir (suite)
 
 > Mon souvenir le plus heureux...
 
 ---
 
-#### Activité 3-ter : je bouleverse mon auditoire...
+### Activité 3-ter
+
+#### Je bouleverse mon auditoire...
 
 + Il s'agit d'enchaîner, au moyen d'une **transition** habile, *deux émotions 
 contraires* : susciter l'hilarité ou l'humour, et basculer dans la tristesse, ou 
@@ -94,7 +107,9 @@ inversement...
 
 ---
 
-#### Activité 4 : défendre une cause... même absurde
+### Activité 4
+
+#### Défendre une cause... même absurde
 
 Je défends des propositions étranges ou absurdes :
 
@@ -110,11 +125,22 @@ Je défends des propositions étranges ou absurdes :
 
 ---
 
-#### Joutes oratoires
+### Joutes oratoires
 
-**Proposition** : donner du *panache* (de l'élégance) à des débats sans intérêt à priori...
+#### *Clasher* ... mais avec panache
 
-+ Cf. la tirade du nez dans *Cyrano de Bergerac*.
++ Une exemple célèbre : la tirade du nez dans *Cyrano de Bergerac*.
+
++ [Tirade interprétée par Gérard Depardieu](https://youtu.be/pGMR-j6zTZU)
+
+---
+
+
+
+---
+
++ **Proposition** : donner du *panache* (de l'élégance) à des débats sans 
+intérêt à priori...
 
 --
 
