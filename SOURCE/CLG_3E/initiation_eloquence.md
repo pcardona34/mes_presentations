@@ -45,10 +45,11 @@ Hitler, aux gourous des sectes, par exemple.
 > Si j'étais un monument, ...  
 > Si j'étais une chanson, etc.
 
+...
 
---- 
+---
 
-## séance 2
+## Séance 2
 
 ---
 
