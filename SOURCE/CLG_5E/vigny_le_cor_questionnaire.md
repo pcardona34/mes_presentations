@@ -46,7 +46,7 @@ de Roland*, chanson de geste qui raconte la mort du héros.
 
 ---
 
-### Réponse 2 : un lieu et un moment propice
+### Réponse 2 : un lieu et un moment propices
 
 --
 
@@ -62,9 +62,9 @@ circonstances lui font penser à la légende de Roland.
 + On appelle lyrisme l'expression de *sentiments personnels* inspirés par 
 un paysage ou une situation particulière.
 
---
+---
 
-#### Le lyrisme dans « le cor »
+### Réponse 3 (suite) : le lyrisme dans « le cor »
 
 Dans ce poème lyrique, le son du cor suscite chez le poète un sentiment 
 de tristesse. En effet, le poète y mêle deux époques différentes où le 
@@ -88,27 +88,27 @@ détresse du chevalier...
 
 ### C.1. Découvrons cet extrait
 
-J'aime le son du cor, le soir, au fond des bois,
-Soit qu'il chante les pleurs de la biche aux abois,
-Ou l'adieu du chasseur que l'écho faible accueille
-Et que le vent du nord porte de feuille en feuille.
+>J'aime le son du cor, le soir, au fond des bois,  
+>Soit qu'il chante les pleurs de la biche aux abois,  
+>Ou l'adieu du chasseur que l'écho faible accueille  
+>Et que le vent du nord porte de feuille en feuille.
 
-Que de fois, seul dans l'ombre à minuit demeuré,
-J'ai souri de l'entendre, et plus souvent pleuré !
-Car je croyais ouïr de ces bruits prophétiques
-Qui précédaient la mort des paladins antiques.
+>Que de fois, seul dans l'ombre à minuit demeuré,  
+>J'ai souri de l'entendre, et plus souvent pleuré !  
+>Car je croyais ouïr de ces bruits prophétiques  
+>Qui précédaient la mort des paladins antiques.
 
 ...
 
 ---
 
-Âmes des Chevaliers, revenez-vous encor ?
-Est-ce vous qui parlez avec la voix du cor ?
-Roncevaux ! Roncevaux ! Dans ta sombre vallée
-L'ombre du grand Roland n'est donc pas consolée !
+>Âmes des Chevaliers, revenez-vous encor ?  
+>Est-ce vous qui parlez avec la voix du cor ?  
+>Roncevaux ! Roncevaux ! Dans ta sombre vallée  
+>L'ombre du grand Roland n'est donc pas consolée !
 
-Son âme en s'exhalant nous appela deux fois.
-Dieu ! que le son du cor est triste au fond des bois !
+>Son âme en s'exhalant nous appela deux fois.  
+>Dieu ! que le son du cor est triste au fond des bois !
 
 ---
 
