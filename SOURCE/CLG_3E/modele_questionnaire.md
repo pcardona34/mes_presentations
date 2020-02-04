@@ -24,5 +24,6 @@ class: center, middle
 
 + Lexique...
 
-<dl><dt>Mot</dt><dd>Définition.</dd></dl>
+Mot:
+:	Définition.
 
