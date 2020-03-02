@@ -81,7 +81,7 @@ un lieu à distinguer parmi d'autres lieux de même sorte.
 | ----------- | ---------- |
 | une *ville* | *Mende*    |
 | un *élève*  | *Pierre*   |
-| un *guerre* | la *Guerre* de Cent ans |
+| une *guerre* | la *Guerre* de Cent ans |
 
 --
 
@@ -104,7 +104,7 @@ au singulier. Comparez :
 
 ### Retenons
 
-![Nom commun, nom propre](/SOURCE/CLG_5E/img_GN/retenons_GN_01.png)
+![Nom commun, nom propre](IMG/retenons_GN_01.png)
 
 
 ---
@@ -208,7 +208,7 @@ Devient :
 
 ### Retenons
 
-![Actualiser ou remplacer un GN](/SOURCE/CLG_5E/img_GN/retenons_GN_02.png)
+![Actualiser ou remplacer un GN](IMG/retenons_GN_02.png)
 
 ---
 
@@ -285,7 +285,7 @@ peut remplir la fonction de complément du nom :
 
 ### Retenons
 
-![Fonctions du GN](/SOURCE/CLG_5E/img_GN/retenons_GN_03.png)
+![Fonctions du GN](IMG/retenons_GN_03.png)
 
 ---
 
