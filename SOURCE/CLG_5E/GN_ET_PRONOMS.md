@@ -215,7 +215,7 @@ Devient :
 ### Entraînement à l'expression écrite
 
 Recopiez le texte suivant et transformez-le de manière à éviter les 
-répétitions maladroites du même groupe nominal.
+répétitions maladroites du même groupe nominal. [Activité 1]
 
 > La résolution de Tom était prise. Tout le monde repoussait Tom. Soit. 
 > Tom mènerait désormais l’existence d’un proscrit. Lorsqu’on apprendrait 

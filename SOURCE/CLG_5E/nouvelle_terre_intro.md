@@ -1,6 +1,6 @@
 class: center, middle
 
-# *Nouvelle terre à l'horizon* : ...
+# Christophe Colomb : *Nouvelle terre à l'horizon* : ...
 
 ### Lecture
 
