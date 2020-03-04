@@ -13,7 +13,7 @@ ordinateur), un *lieu* (la ville, la campagne), un *moment* ou une *durée*
 
 --
 
-Ces êtres, ces choses, etc, appartient à des catégories communes : un 
+Ces êtres, ces choses, etc, appartiennent à des catégories communes : un 
 homme est un individu de l'espèce humaine, un arbre est un végétal qu'on 
 reconnaît grâce à sa constitution : des racines, un tronc, des branches, 
 etc. Il existe plusieurs hommes, comme il existe plusieurs arbres, c'est 
@@ -25,7 +25,7 @@ pourquoi ces noms indiquent ce qu'ils ont *en commun*.
 
 + Dans une phrase, on reconnaît le *nom commun* à la 
 présence, *devant lui*, d'un *déterminant*, petit mot qui sert à 
-l'actualiser. Par exemple :
+*l'actualiser*. Par exemple :
 
 > Un **jour**, un **homme** est venu chez nous. Il portait une 
 > **chemise** rouge.
@@ -47,7 +47,7 @@ Cette fois, on les connaît : on en a déjà parlé. Ces noms sont *actualisés*
 
 + On peut enrichir et préciser ce qu'on dit à propos d'un être ou d'une 
 chose au moyen d'un adjectif qualificatif ou d'un complément du nom : 
-voyez le cours sur les expansions du nom.
+voyez le cours sur les *expansions du nom*.
 
 > **Un jour d'avril**, **un petit homme hirsute** est venu chez nous. Il 
 > portait **une vieille chemise rouge à carreaux**.
@@ -71,9 +71,9 @@ propre indique la *singularité* ou *l'unicité* d'un être, d'un lieu, etc.
 
 + On l'écrit alors avec une majuscule à l'initiale,
 
-+ On l'emploie plutôt 
-sans déterminant, mais parfois avec un article devant un cours d'eau ou 
-un lieu à distinguer parmi d'autres lieux de même sorte.
++ On l'emploie plutôt sans déterminant, mais parfois avec un article 
+devant un cours d'eau ou un lieu à distinguer parmi d'autres lieux de 
+même sorte.
 
 ---
 
@@ -102,9 +102,20 @@ au singulier. Comparez :
 
 ---
 
+On distinguera de même :
+
++ la *terre*, lieu où marche, on creuse...
++ Et la *Terre*, notre planète considérée par l'astronomie.
++ De même pour le *soleil*, considéré en météorologie ;
++ Distingué du *Soleil*, notre étoile considérée par les astronomes...
+
+---
+
 ### Retenons
 
-![Nom commun, nom propre](IMG/retenons_GN_01.png)
+<img src="IMG/retenons_GN_01.png" style="max-width: 80%" />
+
+<p style="text-align: center; font-size: small"><a href="IMG/retenons_GN_01.png" target="_blank">Agrandir l'image</a></p>
 
 
 ---
@@ -171,7 +182,7 @@ Devient :
 ### Remplacement du GN par un pronom indéfini
 
 > Un jour, **plusieurs** hommes vinrent chez nous. **Chaque** homme portait une 
-> chemin rouge.
+> chemise rouge.
 > Le jour suivant, **chaque** homme à la chemise rouge 
 > apporta une lettre.
 
@@ -208,7 +219,9 @@ Devient :
 
 ### Retenons
 
-![Actualiser ou remplacer un GN](IMG/retenons_GN_02.png)
+<img src="IMG/retenons_GN_02.png" style="width: 80%" />
+
+<p style="text-align: center; font-size: small"><a href="IMG/retenons_GN_02.png" target="_blank">Agrandir l'image</a></p>
 
 ---
 
@@ -230,9 +243,85 @@ D'après Mark Twain, *Les Aventures de Tom Sawyer*
 
 ---
 
+## Les pronoms EN et Y
+
+---
+
+### Principe d'emploi des pronoms EN et Y
+
+#### Règle
+
+Les pronoms *EN* et *Y* ne s'emploient **jamais** pour représenter un 
+**humain**.
+
+---
+
+### Exemple avec un humain (1)
+
+> Ce garçon aime Zoé. Il pense à Zoé tout le temps.
+
+Devient :
+
+--
+
+> Ce garçon aime Zoé. Il pense **à elle** tout le temps.
+
+---
+
+### Exemple avec quelque chose (1)
+
+> Ce garçon aime le football. Il pense au football tout le temps.
+
+Devient :
+
+--
+
+> Ce garçon aime le football. Il **y** pense tout le temps.
+
+---
+
+### Exemple avec un humain (2)
+
+> Ce garçon aime Zoé. Il parle de Zoé tout le temps.
+
+Devient :
+
+--
+
+> Ce garçon aime Zoé. Il parle **d'elle** tout le temps.
+
+---
+
+### Exemple avec quelque chose (2)
+
+> Ce garçon aime le football. Il parle du football tout le temps.
+
+Devient :
+
+--
+
+> Ce garçon aime le football. Il **en** parle tout le temps.
+
+---
+
 ## Les principales fonctions du groupe nominal
 
 Le groupe nominal peut remplir des fonctions diverses au sein de la phrase.
+
+---
+
+### Entraînement à l'expression écrite
+
+Recopiez le texte suivant et transformez-le de manière à éviter les 
+répétitions maladroites du même groupe nominal. [Activité 2]
+
+> Annabelle était belle comme une reine. Tous les garçons songeaient à 
+> Annabelle. Mais Annabelle n'aimait pas qu'on parle d'Annabelle. Elle 
+> méprisait le regard des garçons. Elle ne prêtait pas attention au 
+> regard des garçons. Non, décidément, Annabelle n'aimait pas qu'on rêve 
+> d'Annabelle. Et quand l'amie d'Annabelle lui parlait des garçons, 
+> Annabelle soufflait et rétorquait à son amie qu'Annabelle se moquait 
+> de cela.
 
 ---
 
@@ -285,7 +374,9 @@ peut remplir la fonction de complément du nom :
 
 ### Retenons
 
-![Fonctions du GN](IMG/retenons_GN_03.png)
+<img src="IMG/retenons_GN_03.png" style="width: 80%" />
+
+<p style="text-align: center; font-size: small"><a href="IMG/retenons_GN_03.png" target="_blank">Agrandir l'image</a></p>
 
 ---
 
