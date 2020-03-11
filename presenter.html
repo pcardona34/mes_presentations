@@ -43,12 +43,23 @@ h1 {
    color: red;
 }
 
-fieldset {
+form {
    background: rgba(255, 255, 255, 0.8);
 }
 
+select, input {
+   font-size: 1em;
+}
+
+.centre {
+   text-align: center;
+}
+
 footer {
+   border-top: darkgray thin dotted;
+   margin-left: 2em;
    margin-top: 10em;
+   font-size: 0.7em;
 }
 
 </style>
@@ -56,11 +67,9 @@ footer {
 </head>
 
 <body>
-   
-   <h1>Choix de la présentation</h1>
-   
-   
+    
    <form method="get" action="presentation.html">
+   <h1 class="centre">Choix de la présentation</h1>
    <fieldset>
       <legend>Paramètres</legend>
    Niveau : 
@@ -72,7 +81,7 @@ footer {
   Nom de la présentation* :
   <input name="source" id="source" type="text" size="80" />
   </fieldset>
-  <input type="submit" value="Afficher la présentation..." />
+  <p class="centre"><input type="submit" value="Afficher la présentation..." /></p>
   
    </form>
    

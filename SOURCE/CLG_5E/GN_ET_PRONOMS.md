@@ -304,12 +304,6 @@ Devient :
 
 ---
 
-## Les principales fonctions du groupe nominal
-
-Le groupe nominal peut remplir des fonctions diverses au sein de la phrase.
-
----
-
 ### Entraînement à l'expression écrite
 
 Recopiez le texte suivant et transformez-le de manière à éviter les 
@@ -322,6 +316,12 @@ répétitions maladroites du même groupe nominal. [Activité 2]
 > d'Annabelle. Et quand l'amie d'Annabelle lui parlait des garçons, 
 > Annabelle soufflait et rétorquait à son amie qu'Annabelle se moquait 
 > de cela.
+
+---
+
+## Les principales fonctions du groupe nominal
+
+Le groupe nominal peut remplir des fonctions diverses au sein de la phrase.
 
 ---
 

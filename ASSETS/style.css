@@ -157,3 +157,36 @@ fieldset {
 	margin-bottom:0
 }
 
+table {
+	border-collapse: collapse;
+}
+
+table, th, td {
+	padding: 10px;
+	border: solid darkgray thin;
+}
+
+tr:nth-child(even) {background-color: #f2f2f2;}
+
+th {
+  background-color: darkgrey;
+  color: white;
+}
+
+ul {
+  list-style: none; /* Remove list bullets */
+  padding: 0;
+  margin: 0;
+}
+
+li {
+  padding-left: 26px;
+}
+
+li:before {
+  content: "\25B6";
+  padding-right: 8px;
+  color: royalblue;
+  font-weight: bold;
+}
+

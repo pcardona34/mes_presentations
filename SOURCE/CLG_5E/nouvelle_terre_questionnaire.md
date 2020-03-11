@@ -37,7 +37,9 @@ Indes* (c-à-d l'Asie).
 
 --
 
-+ Le comportement des Indiens ne révèle aucun méfiance à l'égard des explorateurs européens : par exemple, les Indiens ne viennent pas armés à leur rencontre :
++ Le comportement des Indiens ne révèle aucune méfiance à l'égard des 
+explorateurs européens : par exemple, les Indiens ne viennent pas armés 
+à leur rencontre :
 
 >« Ils ne portent pas d'armes » (l.23)
 
@@ -85,7 +87,8 @@ Ou encore :
 
 > « ni noirs, ni blancs » (l.20)
 
-+ Mais ils ne s'en étonnent guère, ayant déjà constaté cette particularité chez d'autres peuples :
++ Mais il ne s'en étonne guère, ayant déjà constaté cette particularité 
+chez le peuple des îles Canaries :
 
 >« Ils sont tous comme les Canariens » (l.19-20)
 
