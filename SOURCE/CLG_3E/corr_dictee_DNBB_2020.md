@@ -39,13 +39,11 @@ vous **aime** ! »
 > + **près de**  : sur le point de... disparaître  
 Ne pas confondre avec : ~~**prêt(e)**~~ [adj.] qui se construit seul ou 
 bien suivi de la préposition « à ».
-
 > + **s’étant** mis : forme composée du gérondif « (en) se mettant) » du 
 > verbe « se mettre » (voix pronominale) conjuguée au moyen de 
 > **l'auxiliaire ÊTRE**.
 La forme ~~« s'étend »~~ (du verbe s'étendre) ne pouvait pas précéder le 
 participe « mis ».
-
 > + le lac tout à coup **eut** **l’air** : AVOIR L'AIR au **passé simple**.   
 On pouvait remplacer cette périphrase verbale par la forme unique&nbsp;: 
 «&nbsp;sembla ».  Dans cette périphrase, le mot « air » signifie 
@@ -61,7 +59,6 @@ Révisez le cours de conjugaison.
 
 > + la lune presque **pleine** : fém. de l'adjectif **« plein »**  
 Ne pas confondre avec le nom fém. : la ~~« plaine »~~.
-
 > +   dans **l’allée** : nom fém. qui se termine en -ÉE.  
 Ne pas confondre avec le participe passé (~~allé~~) ou l'infinitif 
 (~~aller~~) du verbe ALLER ; ou encore le nom masculin (un ~~aller~~).  
@@ -77,7 +74,6 @@ Dans le contexte de la dictée, on peut remplacer par « la rue ».
 + **Où** : pronom relatif qui indique le lieu en remplaçant le 
 complément de phrase « sous les arbres » au début de la proposition 
 suivante.
-
 + Ne confondez pas les **« taches »** (salissures) avec les **« tâches »** 
 (obligations, travaux à effectuer).
 
