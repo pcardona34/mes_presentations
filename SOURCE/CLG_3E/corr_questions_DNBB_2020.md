@@ -7,9 +7,7 @@
 ### Réponse 1 (3 points)
 
 + **1.a)** Le sujet du verbe « était »  est « l’herbe verte ».
-
 + **1.b)** Réécriture de la phrase en mettant le verbe à la voix active.
-
 > **Des** gouttes de rosée couvr**aient** l'herbe verte.
  
 Cf. le cours sur les formes de la phrase.
@@ -21,9 +19,7 @@ Cf. le cours sur les formes de la phrase.
 > Au vers 18, « Je **le** tins en l'air » :
 
 + Le mot « le » est un *pronom* personnel.
-
 + Il a pour fonction *complément d'objet direct* (COD) du verbe «&nbsp;tenir ».
-
 + Il remplace le groupe nominal *« (le) jeune orme »*, évoqué pour la 
 première fois au vers précédent.
 
@@ -91,11 +87,9 @@ nature, ce que révèle la phrase exclamative au vers 15 :
 ### Réponse 6 (5 points)
 
 La nature est animée, ce que suggère la *personnification* : 
-
 > « la terre souriait » (vers 1) de même que « tout chantait » (vers 3).
 
 Les couleurs sont vives et prédominantes, ce qui évoque une atmosphère printanière : 
-
 > « ciel bleu», « herbe verte... »
 
 Ainsi cette atmosphère est agréable et propice à l'épanouissement du sentiment amoureux.
@@ -107,13 +101,11 @@ Ainsi cette atmosphère est agréable et propice à l'épanouissement du sentime
 + D'abord le narrateur est *proche* de la jeune femme. Il souhaite 
 rester à proximité : *« à ses pieds »* (expression au sens propre comme au 
 sens figuré) ; cf. aussi : « (elle) marchait *près de moi* ».
-
 + Il est aussi *prévenant* envers elle, comme le montre l’action de 
 soutenir la branche. D'ailleurs, à cet instant, la *métaphore* du *« front 
 couronné »* tend à suggérer une relation dans la tradition de la 
 littérature *courtoise*, le jeune homme adoptant par sa posture l'attitude 
 du *chevalier servant* envers sa *reine*.
-
 + Enfin, il porte sur elle un regard *admiratif*, comme en témoigne 
 l'*épithète méliorative* : « *belle* enfant. »
 
@@ -125,11 +117,9 @@ l'*épithète méliorative* : « *belle* enfant. »
 plus insistante, notamment avec l’utilisation du participe passé
 *« émus »* (vers 21), de même que le pronom personnel *« nous »* indique la
 concordance des sentiments.
-
 + Le rapprochement des corps s’effectue également : *« côte à côte&nbsp;»*, avec néanmoins une 
 certaine distance due à la *timidité*, comme le montre la direction du regard : 
-
-> « nous regardions nos pieds. » 
+> « Nous regardions nos pieds. » 
 
 ...
 
