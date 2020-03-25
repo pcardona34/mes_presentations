@@ -1,6 +1,6 @@
 class: center, middle
 
-# Curiosités d'ailleurs
+# Découvrir et s'approprier
 
 + Jacques Cartier, *Voyages au Canada*, 1534
 + M. Lamigeon et F. Vincent, *Les voyages de Jacques Cartier...*, 2006
