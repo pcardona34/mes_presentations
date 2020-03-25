@@ -1,4 +1,4 @@
-# Curiosités d'ailleurs
+# Curiosités de l'ailleurs
 
 ---
 
