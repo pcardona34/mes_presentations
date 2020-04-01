@@ -16,19 +16,17 @@ class: center, middle
 ### 1.a) Les « grands bœufs » (1)
 
 + Ces *« grands bœufs »* (l.6) décrits comme des animaux marins avec de
- longues dents, c-à-d des défenses d'ivoire, ce sont des *morses*.
- 
+ longues dents, c-à-d des défenses d'ivoire, ce sont des *morses*.  
  ![Illustration : un morse](https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/7_Walro
 ss_1999.jpg/320px-7_Walross_1999.jpg)
- 
- [cf. Article "morse" de l'encyclopédie 
-Wikipédia](https://fr.m.wikipedia.org/wiki/Morse_(animal))
++ Cf. Article "morse" de l'encyclopédie 
+Wikipédia : <https://fr.m.wikipedia.org/wiki/Morse_(animal)>
 
 ---
 
 ### 1.b) Les « grands bœufs » (2)
 
-+ b) Si J. Cartier emploie cette *métaphore* pour désigner cet animal,
++ Si J. Cartier emploie cette *métaphore* pour désigner cet animal,
 c'est parce qu'il n'est pas encore connu des Européens.
 + En effet, il faudra attendre, notamment en France, la publication de 
 *L'Histoire naturelle*, ouvrage 
@@ -44,7 +42,7 @@ baptise, dans tous les sens du terme, la terre découverte du nom de ce
 saint.
 + Comme cet équipage est aussi loyal envers son roi et l'amiral de sa 
 flotte, on retrouve d'autres lieux qui sont nommés en hommage à des 
-personnages prestigieux de la monarchie d'alors : l'amiral de Brion 
+personnages prestigieux de la monarchie d'alors&nbsp;: l'amiral de Brion 
 (l.10), le Dauphin (l.12).
 
 ---
@@ -62,11 +60,11 @@ comment les peuples indigènes nommaient ces lieux.
 
 ### 3. Une empreinte religieuse et royale
 
-+ L'équipage a érigé une grande croix de *« trente pieds de haut »*, 
++ L'équipage a érigé une grande croix de *« trente pieds de haut&nbsp*»*, 
 symbole [ostentatoire](https://fr.wiktionary.org/wiki/ostentatoire) 
 de la religion chrétienne, mais ce symbole porte 
-aussi l'empreinte de la royauté, comme en témoignent la présence des *« 
-trois fleurs de lys »* (l.16) et de l'écriteau à la gloire du roi de 
+aussi l'empreinte de la royauté, comme en témoigne la présence des 
+ *« trois fleurs de lys »* (l.16) et de l'écriteau à la gloire du roi de 
 France.
 
 ---
@@ -122,7 +120,7 @@ pourra rien refuser au capitaine français.
 ### 7. Des verbes de parole significatifs
 
 + Ces verbes de parole sont aussi des actes : en effet, ils révèlent 
-les intentions de Cartier, qui *« ment »* (l.5_6) ou son emprise sur la 
+les intentions de Cartier, qui *« ment »* (l.5-6) ou son emprise sur la 
 situation : il *« commande »* (l.8), voire il *« rugit »* (l.14), 
 métaphore animale qui vise à souligner la puissance et la férocité du 
 personnage : il semble alors devenu irrésistible.
@@ -131,8 +129,8 @@ personnage : il semble alors devenu irrésistible.
 
 ### 8. La naïveté des indigènes
 
-+ D'abord ferme et résolu, puisqu'il parle *« d'un ton sec »* (l.1), le 
-chef, ainsi que ses fils, sont séduits par l'hospitalité intéressée du 
++ D'abord, le chef se montre ferme et résolu, puisqu'il parle *« d'un ton sec »* 
+(l.1). Mais ensuite, ses fils et lui seront séduits par l'hospitalité intéressée du 
 capitaine français, comme le suggère la 
 [gradation](https://fr.wikipedia.org/wiki/Gradation) :
 
