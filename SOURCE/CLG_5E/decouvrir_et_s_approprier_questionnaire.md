@@ -60,7 +60,7 @@ comment les peuples indigènes nommaient ces lieux.
 
 ### 3. Une empreinte religieuse et royale
 
-+ L'équipage a érigé une grande croix de *« trente pieds de haut&nbsp*»*, 
++ L'équipage a érigé une grande croix de *« trente pieds de haut&nbsp;»*, 
 symbole [ostentatoire](https://fr.wiktionary.org/wiki/ostentatoire) 
 de la religion chrétienne, mais ce symbole porte 
 aussi l'empreinte de la royauté, comme en témoigne la présence des 
@@ -129,7 +129,7 @@ personnage : il semble alors devenu irrésistible.
 
 ### 8. La naïveté des indigènes
 
-+ D'abord, le chef se montre ferme et résolu, puisqu'il parle *« d'un ton sec »* 
++ D'abord, le chef se montre ferme et résolu, puisqu'il parle *«&nbsp;d'un ton sec »* 
 (l.1). Mais ensuite, ses fils et lui seront séduits par l'hospitalité intéressée du 
 capitaine français, comme le suggère la 
 [gradation](https://fr.wikipedia.org/wiki/Gradation) :
