@@ -2,7 +2,6 @@
 
 deploy() {
 
-. ./VERSION
 echo "Publishing on the gh-pages..."
 
 git add *
