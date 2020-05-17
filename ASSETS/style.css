@@ -179,13 +179,14 @@ ul {
   margin: 0;
 }
 
-li {
+.remark-slide-content li {
   padding-left: 26px;
+  font-size: 24px;
 }
 
 li:before {
   content: "\25B6";
-  padding-right: 8px;
+  padding-right: 16px;
   color: royalblue;
   font-weight: bold;
 }
