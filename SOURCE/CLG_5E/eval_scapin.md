@@ -19,7 +19,7 @@ Choisissez la bonne réponse :
 
 ### 2. Connaissance des personnages
 
-Qui est le père de Hyacinte ? (1 point)
+Qui est le père de Hyacinthe ? (1 point)
 
 Choisissez la bonne réponse : 
     
@@ -93,7 +93,14 @@ l'esprit, comme toi, de me brouiller avec la justice. »
 
 ---
 
-### 10. Lexique (1)
+### 10. Les procédés comiques
+
+- À plusieurs reprises, des personnages se mettent à genoux devant Scapin. 
+Quels effets comiques sont alors produits ?
+
+---
+
+### 11. Lexique (1)
 
 - a)  Comment s'appelle le sentiment dans lequel on éprouve une
     humiliation et le désir de s'en venger ? (1 point)
