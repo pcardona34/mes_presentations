@@ -9,9 +9,9 @@
 
 ## Extrait A
 
-> Elle *te* ressemble si peu que *je* ne peux attribuer son contenu qu'à *ta*
-peur de la censure. *L'homme* que *j*'ai aimé comme un frère (...) ne peut
-pas s'associer, même passivement, au massacre de gens innocents.
+> Elle **te** ressemble si peu que **je** ne peux attribuer son contenu qu'à 
+**ta** peur de la censure. **L'homme** que **j**'ai aimé comme un frère (...) 
+ne peut pas s'associer, même passivement, au massacre de gens innocents.
 
 ---
 
@@ -28,7 +28,7 @@ en identifiant notamment les pronoms utilisés.
 
 > Elle te ressemble si peu que je ne peux attribuer son contenu qu'à ta
 peur de la censure. L'homme que j'ai aimé comme un frère (...) ne peut
-pas s'associer, même passivement, au *massacre de gens innocents*.
+pas s'associer, même passivement, au **massacre de gens innocents**.
 
 ---
 
@@ -44,7 +44,7 @@ Le « massacre de gens innocents » : à quoi l'auteur de la lettre
 
 > Elle te ressemble si peu que je ne peux attribuer son contenu qu'à ta
 peur de la censure. L'homme que j'ai aimé comme un frère (...) ne peut
-pas s'associer, *même passivement*, au massacre de gens innocents.
+pas s'associer, **même passivement**, au massacre de gens innocents.
 
 ---
 
@@ -59,8 +59,8 @@ pas s'associer, *même passivement*, au massacre de gens innocents.
 
 ### Extrait A
 
-> Elle te ressemble si peu que je ne peux attribuer son contenu qu'à *ta
-peur de la censure*. L'homme que j'ai aimé comme un frère (...) ne peut
+> Elle te ressemble si peu que je ne peux attribuer son contenu qu'à **ta
+peur de la censure**. L'homme que j'ai aimé comme un frère (...) ne peut
 pas s'associer, même passivement, au massacre de gens innocents.
 
 ---
@@ -79,7 +79,7 @@ pas s'associer, même passivement, au massacre de gens innocents.
 
 ### Extrait B
 
-> Il *te* suffit de *me* le confirmer par lettre par un simple « oui. »
+> Il **te** suffit de **me** le confirmer par lettre par un simple « oui. »
 
 ---
 
@@ -94,7 +94,7 @@ Qui sont les personnages concernés dans cet échange ? Nommez-les et
 
 ### Extrait B
 
-> Il te suffit de me *le* confirmer par lettre par un simple « oui. »
+> Il te suffit de me **le** confirmer par lettre par un simple « oui. »
 
 ---
 
