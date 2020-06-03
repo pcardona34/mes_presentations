@@ -9,7 +9,7 @@
 
 ## Extrait A
 
-Elle *te* ressemble si peu que *je* ne peux attribuer son contenu qu'à *ta*
+> Elle *te* ressemble si peu que *je* ne peux attribuer son contenu qu'à *ta*
 peur de la censure. *L'homme* que *j*'ai aimé comme un frère (...) ne peut
 pas s'associer, même passivement, au massacre de gens innocents.
 
@@ -26,7 +26,7 @@ en identifiant notamment les pronoms utilisés.
 
 ### Extrait A
 
-Elle te ressemble si peu que je ne peux attribuer son contenu qu'à ta
+> Elle te ressemble si peu que je ne peux attribuer son contenu qu'à ta
 peur de la censure. L'homme que j'ai aimé comme un frère (...) ne peut
 pas s'associer, même passivement, au *massacre de gens innocents*.
 
@@ -42,7 +42,7 @@ Le « massacre de gens innocents » : à quoi l'auteur de la lettre
 
 ### Extrait A
 
-Elle te ressemble si peu que je ne peux attribuer son contenu qu'à ta
+> Elle te ressemble si peu que je ne peux attribuer son contenu qu'à ta
 peur de la censure. L'homme que j'ai aimé comme un frère (...) ne peut
 pas s'associer, *même passivement*, au massacre de gens innocents.
 
@@ -50,7 +50,7 @@ pas s'associer, *même passivement*, au massacre de gens innocents.
 
 ### Question 3
 
-3.  « Même passivement » : expliquez la portée de cette précision. Le
+« Même passivement » : expliquez la portée de cette précision. Le
     destinataire a-t-il tenu compte de cet avis ? Justifiez votre
     réponse en vous fondant sur votre connaissance du récit.  
      (2 points)
@@ -59,9 +59,9 @@ pas s'associer, *même passivement*, au massacre de gens innocents.
 
 ### Extrait A
 
-Elle te ressemble si peu que je ne peux attribuer son contenu qu'à *ta
+> Elle te ressemble si peu que je ne peux attribuer son contenu qu'à *ta
 peur de la censure*. L'homme que j'ai aimé comme un frère (...) ne peut
-pas s'associer, *même passivement*, au massacre de gens innocents.
+pas s'associer, même passivement, au massacre de gens innocents.
 
 ---
 
@@ -79,7 +79,7 @@ pas s'associer, *même passivement*, au massacre de gens innocents.
 
 ### Extrait B
 
-Il *te* suffit de *me* le confirmer par lettre par un simple « oui. »
+> Il *te* suffit de *me* le confirmer par lettre par un simple « oui. »
 
 ---
 
@@ -94,7 +94,7 @@ Qui sont les personnages concernés dans cet échange ? Nommez-les et
 
 ### Extrait B
 
-Il te suffit de me *le* confirmer par lettre par un simple « oui. »
+> Il te suffit de me *le* confirmer par lettre par un simple « oui. »
 
 ---
 
@@ -134,6 +134,6 @@ final ?
 
 ---
 
-### Exercice D --- Mots-croisés : grille collective (8 points)
+### Exercice D - Mots-croisés : grille collective (8 points)
 
 + VOIR la grille...
